@@ -13,6 +13,11 @@ body{
 .com{
 	font-size:25px;
 }
+.media-icons{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
 th{
 	width:200px;
 	text-decoration:underline;
